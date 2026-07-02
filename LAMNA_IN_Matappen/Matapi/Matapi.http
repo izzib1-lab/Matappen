@@ -1,0 +1,6 @@
+@Matapi_HostAddress = http://localhost:5037
+
+GET {{Matapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
